@@ -1,8 +1,8 @@
-# Hi, I'm Rachana 👋🏽
+# Hi, I'm Rachana
 
 **Software Engineer → AI/ML** · MSc Artificial Intelligence @ Brunel University London
 
-5+ years building backend systems in FinTech & Healthcare (C#/.NET/Azure), now focused on Machine Learning, NLP, and LLMs.
+5+ years building backend systems in FinTech & Healthcare (C#/.NET/Python/Azure), now focused on Machine Learning, NLP, and LLMs.
 
 ---
 
@@ -10,21 +10,22 @@
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
+| [📚 DocChat: Advanced RAG](https://huggingface.co/spaces/rachana28/DocChat-Advanced-RAG) | Retrieval-Augmented Generation microservice with Cohere re-ranking and an LLM-as-a-judge automated evaluator ([Source Code](https://github.com/rachananijalingappa/DocChat_RAG)) | FastAPI · LangChain · Groq (Llama-3) · ChromaDB · Docker |
 | [💳 Credit Card Fraud Detection](https://github.com/rachananijalingappa/CreditCard_Fraud_Detection) | 13 ML/DL models compared on imbalanced data with SHAP explainability | scikit-learn · XGBoost · TensorFlow · Optuna |
 | [🌤️ SmartWeather API](https://github.com/rachananijalingappa/SmartWeather-API) | REST API with AI-powered outfit recommendations | FastAPI · Gemini AI · OpenWeatherMap |
 
-## 🧠 What I'm Learning
+## 🧠 What I'm Learning Currently
 
-- Retrieval-Augmented Generation (RAG) with vector databases
+- Fine-tuning Large Language Models (LLMs) with LoRA/QLoRA
+- Exploring Multi-Agent architectures
 - NLP pipelines with SpaCy and Hugging Face
-- Deploying ML models with Docker + CI/CD
 
 ## 🛠️ Tech I Work With
 
-**AI/ML:** Python · TensorFlow · PyTorch · scikit-learn · SHAP · Optuna
-**Backend:** C# · .NET · FastAPI · Flask · SQL · MongoDB
-**Cloud & DevOps:** Azure · Docker · Kubernetes · GitHub Actions · AWS
-**Tools:** Git · Postman · Swagger · Tableau
+- **AI/ML:** Python · LangChain · Hugging Face · TensorFlow · PyTorch · scikit-learn · SHAP
+- **Backend:** C# · .NET · FastAPI · Flask · SQL · MongoDB · ChromaDB
+- **Cloud & DevOps:** Azure · Docker · Kubernetes · GitHub Actions · AWS
+- **Tools:** Git · Postman · Swagger · Tableau
 
 ## 📫 Let's Connect
 
